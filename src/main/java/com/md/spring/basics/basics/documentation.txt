@@ -1,0 +1,20 @@
+well here we have talk about
+
+dependency injection first thing is we have that is
+
+Basic Things
+
+@component specified that spring need to manage bean of it
+
+@autowired specified that spring need manage object for the given classes
+
+@primary specified that this would be first prority among other beans
+
+@Qaulifire given some name to bean and used under autowired will work first of it
+
+and the last thing is to use autowiring use by name of that bean
+
+***
+autowired can be used on setter
+without using setter or constructor the default injection is setter
+
